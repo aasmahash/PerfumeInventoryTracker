@@ -70,12 +70,8 @@ cd perfume-inventory
 ### 2. Run Backend
 ```
 cd backend
-./mvnw spring-boot:run
-```
-OR
-``` 
-cd backend
-mvn spring-boot:run
+./gradlew bootRun
+
 ```
 ### 3. Run Front-end
 ```cd ../frontend
