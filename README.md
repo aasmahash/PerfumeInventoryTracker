@@ -66,10 +66,11 @@ A simple inventory application to:
 
 2. **Run Backend**
 cd backend
-## if Maven wrapper exists:
+if Maven wrapper exists:
 ./mvnw spring-boot:run
-##  or if using Maven locally:
+or if using Maven locally:
 mvn spring-boot:run
+
 3. **Run FrontEnd**
 cd ../frontend
 npm install
