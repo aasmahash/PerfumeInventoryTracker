@@ -57,22 +57,20 @@ A simple inventory application to:
 
 ---
 
-## 🏁 Getting Started
+# 🏁 Getting Started 🏁
 
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your-username/perfume-inventory.git
-   cd perfume-inventory
+# 1. Clone the repo
+git clone https://github.com/your-username/perfume-inventory.git
+cd perfume-inventory
 
-2. **Run Backend**
+# 2. Run Backend
 cd backend
-if Maven wrapper exists:
+# if Maven wrapper exists:
 ./mvnw spring-boot:run
-or if using Maven locally:
+# or if using Maven locally:
 mvn spring-boot:run
 
-3. **Run FrontEnd**
+# 3. Run Front-end
 cd ../frontend
 npm install
-npm start
-Opens at http://localhost:3000
+npm start  # opens at http://localhost:3000
