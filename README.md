@@ -9,7 +9,8 @@ An inventory tracking and restocking system for perfumes, built with a Spring Bo
 1. [What It Is](#what-it-is)  
 2. [Tech Stack / Languages Used](#tech-stack--languages-used)  
 3. [Key Features](#key-features)  
-4. [Getting Started](#getting-started)  
+4. [Getting Started](#getting-started)
+5. [Live Demo](#live-demo)
 
 ---
 
@@ -81,4 +82,5 @@ mvn spring-boot:run
 npm install
 npm start  
 ```
-### Try it out! At: http://localhost:3000
+## 🔗 Live Demo! 
+At: http://localhost:3000
