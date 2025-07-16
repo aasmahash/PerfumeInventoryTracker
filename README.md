@@ -29,10 +29,12 @@ A simple inventory application to:
 
 - **Back-end**:  
   - Java 
-  - Spring Boot (REST controllers, data models, service layer)  
+  - Java Spring Boot (REST controllers, data models, service layer)
+  - H2 Database
 - **Front-end**:  
-  - React JS ⚛️  
-  - HTML / CSS 🎨
+  - React JS ⚛
+  - React Testing Library  
+  - HTML / CSS 
 
 ---
 
