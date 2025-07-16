@@ -28,10 +28,10 @@ A simple inventory application to:
 ## 🛠️ Tech Stack / Languages Used
 
 - **Back-end**:  
-  - Java 17  
+  - Java 
   - Spring Boot (REST controllers, data models, service layer)  
 - **Front-end**:  
-  - React ⚛️  
+  - React JS ⚛️  
   - HTML / CSS 🎨
 
 ---
@@ -59,18 +59,24 @@ A simple inventory application to:
 
 # 🏁 Getting Started 🏁
 
-# 1. Clone the repo
+### 1. Clone the repo
+```
 git clone https://github.com/your-username/perfume-inventory.git
 cd perfume-inventory
-
-# 2. Run Backend
+```
+### 2. Run Backend
+```
 cd backend
-# if Maven wrapper exists:
 ./mvnw spring-boot:run
-# or if using Maven locally:
+```
+OR
+``` 
+cd backend
 mvn spring-boot:run
-
-# 3. Run Front-end
-cd ../frontend
+```
+### 3. Run Front-end
+```cd ../frontend
 npm install
-npm start  # opens at http://localhost:3000
+npm start  
+```
+ opens at http://localhost:3000
