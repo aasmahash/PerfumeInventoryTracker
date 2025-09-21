@@ -1,4 +1,4 @@
-# 🌸 Perfume Inventory Tracker 🌸
+# 🌸 Perfumora 🌸
 
 An inventory tracking and restocking system for perfumes, built with a Spring Boot back-end and a React front-end. 🚀
 
